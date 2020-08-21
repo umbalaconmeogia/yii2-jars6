@@ -1,0 +1,18 @@
+{
+    "name": "umbalaconmeogia/yii2-jars6",
+    "description": "Yii2 module to manage expenses.",
+	"type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tran Trung Thanh",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+        "psr-4": {
+            "umbalaconmeogia\\jars6\\": "src/"
+        }
+    }
+}
