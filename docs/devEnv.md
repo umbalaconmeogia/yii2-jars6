@@ -62,6 +62,12 @@ Define module *yii2-jars6* in *yii2-devmyext* web/consile configuration.
     ],
 ```
 
+## Run yii2-jars6 migration
+
+```shell
+php yii migrate/up --migrationPath=@umbalaconmeogia/jars6/migrations
+```
+
 ## Test it
 
 Now you can access to yii2-jars6 UI screen via
